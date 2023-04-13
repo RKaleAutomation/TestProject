@@ -13,26 +13,26 @@ public class novclass {
 		
 		char b;  // data type. variable simbols
 		
-		String c; // data type. variable name
+		String d; // data type. variable name
 		
 		
 		// Variable initialization
 		
-		a= 1996;
+		a= 1997;
 		
 		
-		b= '%';
+		d= '%';
 		
-		c= "my birth year@1996";
+		d= "my birth year@1996";
 		
 		
 		// Variable Usges
 		
 		System.out.println(a);
 		
-		System.out.println(b);
-		
 		System.out.println(c);
+		
+		System.out.println(d);
 		
 		System.out.println("Thanks for save data");
 		
